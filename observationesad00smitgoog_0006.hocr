@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesad00smitgoog_0006.png"; bbox 0 0 3276 5188; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 48 2537 1464 2824">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 48 2537 1464 2824">
+     <span class='ocr_line' id='line_1_1' title="bbox 48 2537 1464 2824; baseline -0.011 -60"><span class='ocrx_word' id='word_1_1' title='bbox 48 2789 94 2824; x_wconf 97' lang='lat' dir='ltr'> </span> <span class='ocrx_word' id='word_1_2' title='bbox 246 2537 584 2764; x_wconf 66' lang='lat' dir='ltr'>DloNYSI}</span> <span class='ocrx_word' id='word_1_3' title='bbox 645 2585 1369 2778; x_wconf 63' lang='lat' dir='ltr'><strong>HAfflcARNAssENsffl·</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1462 2710 1464 2805; x_wconf 34' lang='lat' dir='ltr'>j</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 435 2998 1178 3078">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 435 2998 1178 3078">
+     <span class='ocr_line' id='line_1_2' title="bbox 435 2998 1178 3078; baseline 0 -13"><span class='ocrx_word' id='word_1_5' title='bbox 435 3000 607 3078; x_wconf 73' lang='lat' dir='ltr'><strong>ANTIQ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 623 3001 670 3065; x_wconf 84' lang='grc' dir='ltr'>[Ἰ</span> <span class='ocrx_word' id='word_1_7' title='bbox 685 3001 747 3067; x_wconf 71' lang='grc' dir='ltr'>ΤΑ</span> <span class='ocrx_word' id='word_1_8' title='bbox 766 2998 1178 3068; x_wconf 57' lang='lat' dir='ltr'>&#39;rfl-S--ROMANAs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1642 5188">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1642 5188">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1642 5188; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1642 5188; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
